@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Londini emporia, or Londons mercatura Exprest in sundry triumphs, pageants and showes, at the inaugu
+
+1. To the Right Honourable RALPH FREEMAN, Lord Maior of this Renowned Metropolis LONDON.
+
 #####Body#####
-Londini emporia, or Londons mercatura Exprest in sundry triumphs, pageants and showes, at the inaugu
+
+1. LONDONS EMPORIA, OR MERCATVRA.
+
 **Types of content**
 
   * There are 211 **verse** lines!
